@@ -1,0 +1,27 @@
+Métodos de acesso ao HTTP:
+
+GET - Buscar uma informação
+POST - Adicionar um dado/info
+PUT - Alterar um dado/info
+DELETE - Remover um dado
+PATCH - Alterar somente uma parte da info/dado
+_________________________________________________
+
+Modificadores:
+
+Public - Qualquer um acessa a classe
+Private - Tem restrições maiores, somente alguns atributos
+Protected - Somente quanto está na mesma estrutura do pacote
+_________________________________________________
+
+Tipor de retorno das classes:
+
+String - textos
+Integer - (int) numeros inteiros
+Double - numeros 0.0000
+Float - numeros 0.000
+Char - (A C), caracteres
+Date - datas
+Void - sem retorno do metodo
+_________________________________________________
+Getters e setters
